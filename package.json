@@ -1,0 +1,15 @@
+{
+  "name": "node1",
+  "version": "1.0.0",
+  "description": "Ejemplo 1 Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "server"
+  ],
+  "author": "Xitake",
+  "license": "ISC"
+}
